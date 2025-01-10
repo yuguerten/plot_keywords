@@ -1,4 +1,4 @@
-# Keyword Visualization Tool
+# Keywords Visualization Tool
 
 This tool extracts keywords from an idea description and visualizes them in a 2D space using sentence embeddings and dimensionality reduction.
 
